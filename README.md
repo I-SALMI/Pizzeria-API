@@ -48,7 +48,7 @@ Before starting , you need to have [Git](https://git-scm.com) and [Node](https:/
 $ git clone https://github.com/I-SALMI/Pizzeria-API.git
 
 # Access
-$ cd pizzeria/API
+$ cd pizzeria-API
 
 # Install dependencies
 $ npm install
