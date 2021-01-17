@@ -45,7 +45,7 @@ Before starting , you need to have [Git](https://git-scm.com) and [Node](https:/
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/gdcexo
+$ git clone https://github.com/I-SALMI/Pizzeria-API.git
 
 # Access
 $ cd pizzeria/API
